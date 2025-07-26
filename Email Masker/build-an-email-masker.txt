@@ -1,0 +1,14 @@
+** start of script.js **
+
+function maskEmail(email) {
+  let hash = email.indexOf("@");
+  let mainEmail = email.slice(1, hash-1)
+  let maskEmail = email.replace(mainEmail, "*".repeat(mainEmail.length))
+  return maskEmail;
+}
+
+let email = "kelkar.sai99@gmail.com";
+console.log(maskEmail(email));
+
+** end of script.js **
+
