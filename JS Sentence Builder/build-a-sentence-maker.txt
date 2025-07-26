@@ -1,0 +1,24 @@
+** start of script.js **
+
+let adjective = "kind";
+let noun = "DJ";
+let verb = "playing";
+let place = "LA";
+let adjective2 = "playful";
+let noun2 = "Engineer";
+
+const firstStory = "Once upon a time, there was a(n) " + adjective + " " + noun + " who loved to eat " + noun2 + ". The " + noun + " lived in a " + place + " and had " + adjective2 + " nostrils that blew fire when it was " + verb + ".";
+console.log("First story: " + firstStory);
+
+adjective = "angry";
+noun = "Guitarist";
+verb = "working";
+place = "Neverland";
+adjective2 = "funny";
+noun2 = "Chicken broth";
+
+const secondStory = "Once upon a time, there was a(n) " + adjective + " " + noun + " who loved to eat " + noun2 + ". The " + noun + " lived in a " + place + " and had " + adjective2 + " nostrils that blew fire when it was " + verb + ".";
+console.log("Second story: " + secondStory);
+
+** end of script.js **
+
