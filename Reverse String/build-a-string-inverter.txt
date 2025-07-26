@@ -1,0 +1,13 @@
+** start of script.js **
+
+function reverseString(str) {
+  let charArray = str.split('');
+  let reverse = charArray.reverse();
+  let reverseString = reverse.join('');
+  return reverseString
+}
+
+console.log(reverseString("hello"))
+
+** end of script.js **
+
