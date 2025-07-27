@@ -1,0 +1,25 @@
+img {
+    border-color: #ffffff;
+    border-width: 2px;
+    border-style: solid;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    text-align: center;
+    padding: 20px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
