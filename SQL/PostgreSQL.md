@@ -1,0 +1,1 @@
+Two pieces of software to be installed -- Postgres Server (to run the database server on our local computer) and pgAdmin (the UI to interact with the Server)
