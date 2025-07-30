@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@inquirer/prompts": "^7.8.0",
+    "inquirer": "^12.9.0",
+    "qr-image": "^3.2.0"
+  },
+  "name": "qr-code-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sai Kelkar",
+  "license": "ISC",
+  "description": ""
+}
